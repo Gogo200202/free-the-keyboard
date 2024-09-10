@@ -1,1 +1,1 @@
-Got to copyIntoConsole.js file and copy and pace into the terminal.
+## Got to copyIntoConsole.js file and copy and pace into the terminal.
